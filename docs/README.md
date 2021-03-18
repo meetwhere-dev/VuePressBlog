@@ -10,5 +10,5 @@ features:
   details: 自我理解的前端知识点
 - title: 关于我
   details: 我是谁？
-footer: MIT Licensed | Copyright © 2021-wanyunfeng
+footer: MIT Licensed | Copyright © 2021
 ---
