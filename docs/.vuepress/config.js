@@ -21,8 +21,7 @@ module.exports = {
     // 顶部导航配置
     nav: [
       { text: "概述", link: "/" },
-      { text: "基础类文档", link: "/basic/" },
-      { text: "Vue类文档", link: "/vue/" },
+      { text: "人脸识别", link: "/facedectect/index" },
       // 我们也可以添加FAQ的
       { text: 'FAQ', link: '/faq' },
       {
